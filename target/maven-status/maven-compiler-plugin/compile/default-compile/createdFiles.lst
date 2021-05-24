@@ -1,0 +1,5 @@
+com\example\product\Kullanici.class
+com\example\product\KullaniciCRUD.class
+com\example\product\HelloApplication.class
+com\example\product\HelloResource.class
+com\example\product\KullaniciClientTest.class
